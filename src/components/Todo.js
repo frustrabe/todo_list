@@ -12,7 +12,6 @@ function Todo(props) {
     function closeModalHandler() {
         setModalIsOpen(false);
     }
-
     /* document.querySelector('button').addEventListener('click') 
     imperative way of writing vanilla JS*/
     /* in declative way, we add an attribute to our button className*/
