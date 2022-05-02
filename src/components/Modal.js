@@ -1,4 +1,5 @@
 function Modal(props) {
+
     function cancelHandler() {
         props.onCancel();
     }
